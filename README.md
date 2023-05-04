@@ -2,10 +2,10 @@
 ###### Created with HTML5 and CSS3 in the TecnolochicasPro bootcamp.
 ## INDEX
 
-* [Intro]()
-* [What did I build?]()
-* [Project Objectives]()
-* [Link to Demo!]()
+* [Intro](https://github.com/ArelyYanez/Google-clone/blob/main/README.md#intro)
+* [What did I build?](https://github.com/ArelyYanez/Google-clone/blob/main/README.md#what-did-i-build)
+* [Project Objectives](https://github.com/ArelyYanez/Google-clone/blob/main/README.md#project-objectives)
+* [Link to Demo!](https://github.com/ArelyYanez/Google-clone/blob/main/README.md#link-to-demo)
 
 ***
 
