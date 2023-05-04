@@ -32,3 +32,6 @@ Learn how to use HTML5 tags and CSS3 properties, as well as identify core compon
 ## Link to Demo!
 
 View my finished project here [Google Clone](https://arelyyanez.github.io/Google-clone/)
+
+
+![Clone Google](https://user-images.githubusercontent.com/131729177/236079267-82d8b4d5-2ab9-41b5-97da-4d201737c657.JPG)
